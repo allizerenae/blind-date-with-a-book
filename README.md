@@ -7,7 +7,7 @@ Inspired by the “blind date” concept, it encourages readers to explore outsi
 This app was primarily designed to be used by book club leaders to generate a new book and set deadlines. However, it could also be
 used by avid readers that are seeking some inspiration for their next read.
 
-This project was developed as part of the Code First Girls course, showcasing our learning in Python, MySQL, and Flask while collaborating as a team.  
+This project was developed with women in tech, showcasing our learning in Python, MySQL, and Flask while collaborating as a team.  
 
 ---
 
@@ -94,7 +94,7 @@ Now interact with the terminal-based user interface.
 
 ## Project Structure  
 ```
-group-2-blind-date-with-a-book/
+blind-date-with-a-book/
 ├─ app/                      # Source code for the project
 │   ├─ __init__.py
 │   ├─ book.py               # Book logic
@@ -155,10 +155,10 @@ Ensure the virtual environment is active and dependencies are installed. These t
 ---
 
 ## Contributors
-Developed by **Group 2 – Code First Girls CFGdegree**  
+Developed by 
+- Allize Renae
 - Rachel Fuller
 - Debbie Richford
-- Allize Renae
 - Maisie Pepper
 - Kaveyah Ravikumar
 - Nemi Imoh
